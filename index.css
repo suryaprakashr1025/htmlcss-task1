@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(190, 198, 199);
+}   
+.head{
+    background-color: black;
+   color:white;
+   font-family: Arial, Helvetica, sans-serif;
+   display: flex;
+   padding:25px 10px;
+ 
+}
+.center{
+   padding-left: 550px;
+    letter-spacing: 4px;
+}
+.box{
+    background-color: black;
+    margin-top: 50px;
+    margin-left:1px;
+    border-radius: 25px;
+    width:280px;
+    height: 450px;
+    
+    
+}
+.box1{
+    background-color: rgb(190, 198, 199);
+    margin-top: 50px;
+    margin-left:200px;
+    border-radius: 25px;
+    width:750px;
+    height: 450px;
+}
+.input{
+    background-color: black;
+    margin-top: 10px;
+    margin-left:80px;
+    border-radius: 10px;
+    width:600px;
+    height: 45px;
+    color: rgb(190, 198, 199);
+}
+h5{
+    letter-spacing: 5px;
+    padding: 5px 20px;
+}
+.b1{
+    background-color: black;
+    margin-top: 60px;
+    margin-left:35px;
+    border-radius: 10px;
+    width:200px;
+    height: 150px;
+}
+.b2{
+    background-color: black;
+    margin-top: 60px;
+    margin-left:25px;
+    border-radius: 10px;
+    width:200px;
+    height: 150px;
+}
+.b3{
+    background-color: black;
+    margin-top: 60px;
+    margin-left:15px;
+    border-radius: 10px;
+    width:200px;
+    height: 150px;
+}
+.box2{
+    background-color: black;
+    margin-top: 30px;
+    margin-left:60px;
+    border-radius: 25px;
+    width:680px;
+    height: 150px;
+}
+i{
+    padding:0px 15px;
+}
